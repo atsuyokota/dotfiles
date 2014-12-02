@@ -1,0 +1,12 @@
+/home/ocnk/yokota/webmanager/themes/new/templates/mail-limit-customer-edit.tpl
+/home/ocnk/yokota/webmanager/themes/new/templates/#mail-limit-customer-edit.tpl#
+/home/ocnk/yokota/webmanager/themes/new/templates/office-list.tpl
+/home/ocnk/yokota/webmanager/themes/new/templates/#office-list.tpl#
+/home/ocnk/yokota/webmanager/themes/new/templates/office-csv-config.tpl
+/home/ocnk/yokota/webmanager/themes/new/templates/#office-csv-config.tpl#
+/home/ocnk/yokota/webmanager/src/relays/helpers/MailMagazine.php
+/home/ocnk/yokota/webmanager/src/relays/helpers/#MailMagazine.php#
+/home/ocnk/yokota/webmanager/src/mailDelivery.php
+/home/ocnk/yokota/webmanager/src/#mailDelivery.php#
+/home/ocnk/yokota/webmanager/src/relays/mail-edit.php
+/home/ocnk/yokota/webmanager/src/relays/#mail-edit.php#
